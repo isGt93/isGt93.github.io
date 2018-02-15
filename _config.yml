@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 黑客养成日记
-subtitle: 黑客日记，记录黑客成长
+title: 黑客养成笔记
+subtitle: 黑客笔记，记录黑客成长
 description: hack,hacker,heike,黑客,白帽子,信息安全,网络安全,CTF
 author: g1uttt
 language: zh-Hans
@@ -46,7 +46,7 @@ githubEmojis:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://hackriji.top
+url: http://hackbiji.top
 root: /
 permalink: /posts/:abbrlink/
 permalink_defaults:
