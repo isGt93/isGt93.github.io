@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>黑客养成日记</title>
+  
+  <subtitle>黑客日记，记录黑客成长</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hackriji.top/"/>
+  <updated>2018-02-15T05:44:52.603Z</updated>
+  <id>http://hackriji.top/</id>
+  
+  <author>
+    <name>g1uttt</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网站诞生</title>
+    <link href="http://hackriji.top//posts/a241d89d/"/>
+    <id>http://hackriji.top//posts/a241d89d/</id>
+    <published>2018-02-15T04:40:59.000Z</published>
+    <updated>2018-02-15T05:44:52.603Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
