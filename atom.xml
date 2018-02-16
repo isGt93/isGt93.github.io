@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hackbiji.top/"/>
-  <updated>2018-02-15T05:56:40.679Z</updated>
+  <updated>2018-02-16T10:52:58.829Z</updated>
   <id>http://hackbiji.top/</id>
   
   <author>
@@ -21,12 +21,32 @@
     <link href="http://hackbiji.top//posts/a241d89d/"/>
     <id>http://hackbiji.top//posts/a241d89d/</id>
     <published>2018-02-15T04:40:59.000Z</published>
-    <updated>2018-02-15T05:56:40.679Z</updated>
+    <updated>2018-02-16T10:52:58.829Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="网站简介"><a href="#网站简介" class="headerlink" title="网站简介"></a>网站简介</h3><ul><li>姓名:黑客笔记</li><li>生日:2018-02-14</li><li>地点:AnHui Hefei</li><li>擅长:网络与信息安全</li></ul><p>本站采用Github做为存储，Github Page作为静态页面展示，Hexo博客程序，tomotoes模板，<br>resellseclub购买的域名，<br>(<a href="http://hackbiji.top">http://hackbiji.top</a>)<br>永久域名为<a href="http://isgt93.github.io，一年总费用只需￥6。" target="_blank" rel="noopener">http://isgt93.github.io，一年总费用只需￥6。</a>  </p><p>本站仅仅关注网络与信息安全领域的黑科技，如果您喜欢，欢迎<code>Ctrl + D</code>收藏本站，谢谢！  </p>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;h3 id=&quot;网站简介&quot;&gt;&lt;a href=&quot;#网站简介&quot; class=&quot;headerlink&quot; title=&quot;网站简介&quot;&gt;&lt;/a&gt;网站简介&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;姓名:黑客笔记&lt;/li&gt;
+&lt;li&gt;生日:2018-02-14&lt;/li&gt;
+&lt;li&gt;地点:AnHui Hefei&lt;/
+      
+    
     </summary>
     
+      <category term="运维" scheme="http://hackbiji.top/categories/%E8%BF%90%E7%BB%B4/"/>
+    
+    
+      <category term="建站" scheme="http://hackbiji.top/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+      <category term="Github Page" scheme="http://hackbiji.top/tags/Github-Page/"/>
+    
+      <category term="Hexo" scheme="http://hackbiji.top/tags/Hexo/"/>
+    
+      <category term="Linux" scheme="http://hackbiji.top/tags/Linux/"/>
     
   </entry>
   
