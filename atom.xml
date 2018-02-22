@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hackbiji.top/"/>
-  <updated>2018-02-16T11:00:51.422Z</updated>
+  <updated>2018-02-22T12:06:02.383Z</updated>
   <id>http://hackbiji.top/</id>
   
   <author>
@@ -17,13 +17,67 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>软件安全_返回到libc攻击防范</title>
+    <link href="http://hackbiji.top//posts/cefe7abc/"/>
+    <id>http://hackbiji.top//posts/cefe7abc/</id>
+    <published>2018-02-22T12:02:35.000Z</published>
+    <updated>2018-02-22T12:06:02.383Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="软件安全-返回到libc攻击防范"><a href="#软件安全-返回到libc攻击防范" class="headerlink" title="软件安全-返回到libc攻击防范"></a>软件安全-返回到libc攻击防范</h2><p>学习要求：<br>掌握C语言，掌握函数栈，</p><ul><li><a href="https://www.zhihu.com/lives/942448145230233600" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Return_to_libc/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32563626" target="_blank" rel="noopener">指导</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;软件安全-返回到libc攻击防范&quot;&gt;&lt;a href=&quot;#软件安全-返回到libc攻击防范&quot; class=&quot;headerlink&quot; title=&quot;软件安全-返回到libc攻击防范&quot;&gt;&lt;/a&gt;软件安全-返回到libc攻击防范&lt;/h2&gt;&lt;p&gt;学习要求：&lt;br&gt;掌握C语言
+      
+    
+    </summary>
+    
+      <category term="实验" scheme="http://hackbiji.top/categories/%E5%AE%9E%E9%AA%8C/"/>
+    
+    
+      <category term="软件安全" scheme="http://hackbiji.top/tags/%E8%BD%AF%E4%BB%B6%E5%AE%89%E5%85%A8/"/>
+    
+      <category term="缓冲区溢出" scheme="http://hackbiji.top/tags/%E7%BC%93%E5%86%B2%E5%8C%BA%E6%BA%A2%E5%87%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>软件安全_缓冲区溢出攻击防范</title>
+    <link href="http://hackbiji.top//posts/4e6a2dc0/"/>
+    <id>http://hackbiji.top//posts/4e6a2dc0/</id>
+    <published>2018-02-22T11:51:52.000Z</published>
+    <updated>2018-02-22T12:01:27.125Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="软件安全-缓冲区溢出攻击防范"><a href="#软件安全-缓冲区溢出攻击防范" class="headerlink" title="软件安全-缓冲区溢出攻击防范"></a>软件安全-缓冲区溢出攻击防范</h2><p>学习要求：<br>掌握C语言，掌握函数栈，</p><ul><li><a href="https://www.zhihu.com/lives/930120329869795328" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Buffer_Overflow/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32473371" target="_blank" rel="noopener">指导</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;软件安全-缓冲区溢出攻击防范&quot;&gt;&lt;a href=&quot;#软件安全-缓冲区溢出攻击防范&quot; class=&quot;headerlink&quot; title=&quot;软件安全-缓冲区溢出攻击防范&quot;&gt;&lt;/a&gt;软件安全-缓冲区溢出攻击防范&lt;/h2&gt;&lt;p&gt;学习要求：&lt;br&gt;掌握C语言，掌握函数栈，&lt;
+      
+    
+    </summary>
+    
+      <category term="实验" scheme="http://hackbiji.top/categories/%E5%AE%9E%E9%AA%8C/"/>
+    
+    
+      <category term="软件安全" scheme="http://hackbiji.top/tags/%E8%BD%AF%E4%BB%B6%E5%AE%89%E5%85%A8/"/>
+    
+      <category term="缓冲区溢出" scheme="http://hackbiji.top/tags/%E7%BC%93%E5%86%B2%E5%8C%BA%E6%BA%A2%E5%87%BA/"/>
+    
+  </entry>
+  
+  <entry>
     <title>网站诞生</title>
     <link href="http://hackbiji.top//posts/a241d89d/"/>
     <id>http://hackbiji.top//posts/a241d89d/</id>
     <published>2018-02-15T04:40:59.000Z</published>
-    <updated>2018-02-16T11:00:51.422Z</updated>
+    <updated>2018-02-16T11:35:56.349Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="网站简介"><a href="#网站简介" class="headerlink" title="网站简介"></a>网站简介</h3><ul><li>姓名:黑客笔记</li><li>生日:2018-02-14</li><li>地点:AnHui Hefei</li><li>擅长:网络与信息安全</li></ul><p>本站采用Github做为存储，Github Page作为静态页面展示，Hexo博客程序，<br>tomotoes模板，resellseclub购买的域名，<br><a href="http://hackbiji.top">http://hackbiji.top</a><br>永久域名为<a href="http://isgt93.github.io" target="_blank" rel="noopener">http://isgt93.github.io</a>  </p><p>一年总费用只需￥6。  </p><p>本站仅仅关注网络与信息安全领域的黑科技，如果您喜欢，<br>欢迎<code>Ctrl + D</code>收藏本站，谢谢！  </p>]]></content>
+    <content type="html"><![CDATA[<h3 id="网站简介"><a href="#网站简介" class="headerlink" title="网站简介"></a>网站简介</h3><ul><li>姓名:黑客笔记</li><li>生日:2018-02-14</li><li>地点:AnHui Hefei</li><li>擅长:网络与信息安全</li></ul><p>本站采用Github做为存储，Github Page作为静态页面展示，Hexo博客程序，<br>tomotoes模板，resellerclub购买的域名，<br><a href="http://hackbiji.top">http://hackbiji.top</a><br>永久域名为<a href="http://isgt93.github.io" target="_blank" rel="noopener">http://isgt93.github.io</a>  </p><p>一年总费用只需￥6。  </p><p>本站仅仅关注网络与信息安全领域的黑科技，如果您喜欢，<br>欢迎<code>Ctrl + D</code>收藏本站，谢谢！  </p>]]></content>
     
     <summary type="html">
     
