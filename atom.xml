@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hackbiji.top/"/>
-  <updated>2018-02-22T12:06:02.383Z</updated>
+  <updated>2018-02-22T12:11:52.466Z</updated>
   <id>http://hackbiji.top/</id>
   
   <author>
@@ -21,15 +21,17 @@
     <link href="http://hackbiji.top//posts/cefe7abc/"/>
     <id>http://hackbiji.top//posts/cefe7abc/</id>
     <published>2018-02-22T12:02:35.000Z</published>
-    <updated>2018-02-22T12:06:02.383Z</updated>
+    <updated>2018-02-22T12:11:52.466Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="软件安全-返回到libc攻击防范"><a href="#软件安全-返回到libc攻击防范" class="headerlink" title="软件安全-返回到libc攻击防范"></a>软件安全-返回到libc攻击防范</h2><p>学习要求：<br>掌握C语言，掌握函数栈，</p><ul><li><a href="https://www.zhihu.com/lives/942448145230233600" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Return_to_libc/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32563626" target="_blank" rel="noopener">指导</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li><a href="https://www.zhihu.com/lives/942448145230233600" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Return_to_libc/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32563626" target="_blank" rel="noopener">指导</a></li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;软件安全-返回到libc攻击防范&quot;&gt;&lt;a href=&quot;#软件安全-返回到libc攻击防范&quot; class=&quot;headerlink&quot; title=&quot;软件安全-返回到libc攻击防范&quot;&gt;&lt;/a&gt;软件安全-返回到libc攻击防范&lt;/h2&gt;&lt;p&gt;学习要求：&lt;br&gt;掌握C语言
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/lives/942448145230233600&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;live直播&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.cis
       
     
     </summary>
@@ -48,15 +50,17 @@
     <link href="http://hackbiji.top//posts/4e6a2dc0/"/>
     <id>http://hackbiji.top//posts/4e6a2dc0/</id>
     <published>2018-02-22T11:51:52.000Z</published>
-    <updated>2018-02-22T12:01:27.125Z</updated>
+    <updated>2018-02-22T12:11:15.188Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="软件安全-缓冲区溢出攻击防范"><a href="#软件安全-缓冲区溢出攻击防范" class="headerlink" title="软件安全-缓冲区溢出攻击防范"></a>软件安全-缓冲区溢出攻击防范</h2><p>学习要求：<br>掌握C语言，掌握函数栈，</p><ul><li><a href="https://www.zhihu.com/lives/930120329869795328" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Buffer_Overflow/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32473371" target="_blank" rel="noopener">指导</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li><a href="https://www.zhihu.com/lives/930120329869795328" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Buffer_Overflow/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32473371" target="_blank" rel="noopener">指导</a></li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;软件安全-缓冲区溢出攻击防范&quot;&gt;&lt;a href=&quot;#软件安全-缓冲区溢出攻击防范&quot; class=&quot;headerlink&quot; title=&quot;软件安全-缓冲区溢出攻击防范&quot;&gt;&lt;/a&gt;软件安全-缓冲区溢出攻击防范&lt;/h2&gt;&lt;p&gt;学习要求：&lt;br&gt;掌握C语言，掌握函数栈，&lt;
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/lives/930120329869795328&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;live直播&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.cis
       
     
     </summary>
