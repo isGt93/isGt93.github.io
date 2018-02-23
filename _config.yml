@@ -5,7 +5,7 @@
 # Site
 title: 黑客养成笔记
 subtitle: 黑客笔记，记录黑客成长
-description: hack,hacker,heike,黑客,白帽子,信息安全,网络安全,CTF
+description: 黑客养成笔记,黑客笔记,hackbiji,hack笔记,heikebiji,黑客,白帽子,信息安全,网络安全,CTF
 author: g1uttt
 language: zh-Hans
 timezone:
@@ -112,7 +112,9 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: tomotoes
-
+## sitemap
+sitemap:
+    path: sitemap.xml
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:

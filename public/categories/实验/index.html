@@ -6,7 +6,7 @@
     
     
     
-    <title>归档 | 黑客养成笔记 | 黑客笔记，记录黑客成长</title>
+    <title>分类: 实验 | 黑客养成笔记 | 黑客笔记，记录黑客成长</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
     
     <meta name="theme-color" content="#77AAFF">
@@ -42,7 +42,7 @@
     <meta name="description" content="黑客养成笔记,黑客笔记,hackbiji,hack笔记,heikebiji,黑客,白帽子,信息安全,网络安全,CTF">
 <meta property="og:type" content="website">
 <meta property="og:title" content="黑客养成笔记">
-<meta property="og:url" content="http://hackbiji.top/archives/index.html">
+<meta property="og:url" content="http://hackbiji.top/categories/实验/index.html">
 <meta property="og:site_name" content="黑客养成笔记">
 <meta property="og:description" content="黑客养成笔记,黑客笔记,hackbiji,hack笔记,heikebiji,黑客,白帽子,信息安全,网络安全,CTF">
 <meta property="og:locale" content="zh-Hans">
@@ -91,14 +91,14 @@
                   </a>
               </li>
             
-              <li class="waves-block waves-effect active">
+              <li class="waves-block waves-effect">
                   <a href="/archives"  >
                     <i class="icon icon-lg icon-archives"></i>
                     <span>归 档</span><i class="icon icon-lg icon-caret-left"></i>
                   </a>
               </li>
             
-              <li class="waves-block waves-effect">
+              <li class="waves-block waves-effect active">
                   <a href="/categories"  >
                     <i class="icon icon-lg icon-th-list"></i>
                     <span>分 类</span><i class="icon icon-lg icon-caret-left"></i>
@@ -150,7 +150,7 @@
         <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light on" id="menu-toggle">
           <i class="icon icon-lg icon-navicon"></i>
         </a>
-        <div class="flex-col header-title ellipsis">归档</div>
+        <div class="flex-col header-title ellipsis">分类: 实验</div>
         
         <div class="search-wrap" id="search-wrap">
             <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="back">
@@ -167,7 +167,7 @@
         </a>
     </div>
 </header>
-<header class="content-header archives-header">
+<header class="content-header categories-header">
     
     
     <div class="container fade-scale">
@@ -177,7 +177,19 @@
             </h1>
             <h5 class="subtitle">
                 
-                    <h1 class="archivestitle">路漫漫其修远兮</h1>
+                    <h1 id="pagetitle" class="archivestitle"></h1>
+                    <script>
+                        if(location.href.indexOf('about')!=-1){
+                            pagetitle.textContent = '既然来了就别走了';
+                        }else if(location.href.indexOf('tags')!=-1||location.href.indexOf('categories')!=-1){
+                            var a=location.href.substring(location.href.length-5,location.href.length-1);
+                            if(a==='tags'){
+                                pagetitle.textContent = '不积小流无以成江海';
+                            }else if(a==='ries'){
+                                pagetitle.textContent = '不积跬步无以至千里';
+                            }
+                        }
+                    </script>
                 
             </h5>
         </div>
@@ -187,23 +199,22 @@
 
 <div class="container body-wrap fade">
     
-
-    
+        
+        
+        <h5 class="tag-tip">
+            <i class="icon icon-tag"></i>
+            关于
+            <span style="color:rgb(100, 100, 100)">实验</span>
+            共&nbsp;3&nbsp;篇文章</h5>
+        <div class="waterfall">
             
-            <h3 class="archive-separator">
-                <i class="icon icon-lg icon-folder-o"></i>&nbsp;&nbsp;
-                2018
-            </h3>
-            <div class="waterfall">
-    
-
-        <article class="archive-article" onclick="location.href='/posts/e530546b/'">
+                <article class="archive-article" onclick="location.href='/posts/e530546b/'">
     <div class="archive-article-date">
       
       <time class="my-post-time">
         <i class="icon icon-lg icon-file-text-o"></i>
         &nbsp;
-          02-23
+          2018-02-23
       </time>
     </div>
     <div class="archive-article-inner">
@@ -223,16 +234,14 @@
 
     </div>
   </article>
-
-    
-
-        <article class="archive-article" onclick="location.href='/posts/cefe7abc/'">
+            
+                <article class="archive-article" onclick="location.href='/posts/cefe7abc/'">
     <div class="archive-article-date">
       
       <time class="my-post-time">
         <i class="icon icon-lg icon-file-text-o"></i>
         &nbsp;
-          02-22
+          2018-02-22
       </time>
     </div>
     <div class="archive-article-inner">
@@ -252,16 +261,14 @@
 
     </div>
   </article>
-
-    
-
-        <article class="archive-article" onclick="location.href='/posts/4e6a2dc0/'">
+            
+                <article class="archive-article" onclick="location.href='/posts/4e6a2dc0/'">
     <div class="archive-article-date">
       
       <time class="my-post-time">
         <i class="icon icon-lg icon-file-text-o"></i>
         &nbsp;
-          02-22
+          2018-02-22
       </time>
     </div>
     <div class="archive-article-inner">
@@ -281,41 +288,12 @@
 
     </div>
   </article>
-
+            
+        </div>
     
 
-        <article class="archive-article" onclick="location.href='/posts/a241d89d/'">
-    <div class="archive-article-date">
-      
-      <time class="my-post-time">
-        <i class="icon icon-lg icon-file-text-o"></i>
-        &nbsp;
-          02-15
-      </time>
-    </div>
-    <div class="archive-article-inner">
-      
-
-
-  
-    <h3 class="post-title" itemprop="name">
-      <a href="/posts/a241d89d/">网站诞生</a>
-    </h3>
-  
-
-
-
-      
-	<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Github-Page/">Github Page</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Hexo/">Hexo</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Linux/">Linux</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/建站/">建站</a></li></ul>
-
-    </div>
-  </article>
-
-    
-    </div>
-
-    
 </div>
+
 
         <footer class="footer">
     <div class="footer-content">
