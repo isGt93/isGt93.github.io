@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hackbiji.top/about/index.html</loc>
+    
+    <lastmod>2018-03-07T12:58:17.796Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hackbiji.top/links/index.html</loc>
+    
+    <lastmod>2018-03-07T11:52:37.605Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hackbiji.top/posts/e530546b/</loc>
     
-    <lastmod>2018-02-23T03:28:24.858Z</lastmod>
+    <lastmod>2018-02-23T03:28:34.338Z</lastmod>
     
   </url>
   
@@ -30,21 +44,14 @@
   </url>
   
   <url>
-    <loc>http://hackbiji.top/tags/index.html</loc>
-    
-    <lastmod>2018-02-15T05:56:40.679Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hackbiji.top/about/index.html</loc>
-    
-    <lastmod>2018-02-15T05:56:40.679Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hackbiji.top/categories/index.html</loc>
+    
+    <lastmod>2018-02-15T05:56:40.679Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hackbiji.top/tags/index.html</loc>
     
     <lastmod>2018-02-15T05:56:40.679Z</lastmod>
     
