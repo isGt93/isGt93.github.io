@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hackbiji.top/"/>
-  <updated>2018-03-08T08:33:40.963Z</updated>
+  <updated>2018-03-26T12:42:17.677Z</updated>
   <id>http://hackbiji.top/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://hackbiji.top//posts/a444af96/"/>
     <id>http://hackbiji.top//posts/a444af96/</id>
     <published>2018-03-08T07:59:39.000Z</published>
-    <updated>2018-03-08T08:33:40.963Z</updated>
+    <updated>2018-03-26T12:42:17.677Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Fri Mar 09 2018 16:41:10 GMT+0800 (CST) --><h1 id="2018-3月计划"><a class="markdownIt-Anchor" href="#2018-3月计划"></a> 2018-3月计划</h1><h2 id="算法"><a class="markdownIt-Anchor" href="#算法"></a> 算法</h2><p><strong>刷完《剑指OFFER》</strong></p><p>剩余20道编程题 每天1道</p><h2 id="seedlabs"><a class="markdownIt-Anchor" href="#seedlabs"></a> SEEDLabs</h2><p><strong>刷完软件安全实验</strong></p><p>剩余3个:10号 20号 30号</p><h2 id="知乎live"><a class="markdownIt-Anchor" href="#知乎live"></a> 知乎Live</h2><p>完成2场: 10号 17号</p><h3 id="ctf"><a class="markdownIt-Anchor" href="#ctf"></a> CTF</h3><p>试水，寻找靶场</p><h3 id="web安全"><a class="markdownIt-Anchor" href="#web安全"></a> Web安全</h3><p>预习Web安全相关知识</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Mon Mar 26 2018 20:42:32 GMT+0800 (CST) --><h1 id="2018-3月计划"><a class="markdownIt-Anchor" href="#2018-3月计划"></a> 2018-3月计划</h1><h2 id="算法"><a class="markdownIt-Anchor" href="#算法"></a> 算法</h2><ul><li>[x] <strong>刷完《剑指OFFER》</strong></li></ul><p>剩余20道编程题 每天1道</p><h2 id="seedlabs"><a class="markdownIt-Anchor" href="#seedlabs"></a> SEEDLabs</h2><ul><li>[ ] <strong>刷完软件安全实验</strong></li></ul><p>剩余3个:10号 20号 30号</p><h2 id="知乎live"><a class="markdownIt-Anchor" href="#知乎live"></a> 知乎Live</h2><ul><li>[x] 完成2场: 10号 17号</li></ul><h3 id="ctf"><a class="markdownIt-Anchor" href="#ctf"></a> CTF</h3><ul><li>[ ] 试水，寻找靶场</li></ul><h3 id="web安全"><a class="markdownIt-Anchor" href="#web安全"></a> Web安全</h3><ul><li>[ ] 预习Web安全相关知识</li></ul><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Fri Mar 09 2018 16:41:10 GMT+0800 (CST) --&gt;&lt;h1 id=&quot;2018-3月计划&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#2018-3月计划&quot;&gt;&lt;/a&gt; 2018-3月计划&lt;
+        &lt;!-- build time:Mon Mar 26 2018 20:42:32 GMT+0800 (CST) --&gt;&lt;h1 id=&quot;2018-3月计划&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#2018-3月计划&quot;&gt;&lt;/a&gt; 2018-3月计划&lt;
       
     
     </summary>
@@ -48,13 +48,13 @@
     <published>2018-03-07T15:49:37.000Z</published>
     <updated>2018-03-08T07:58:59.139Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Fri Mar 09 2018 16:41:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/951401976982900736" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Environment_Variable_and_SetUID/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32563769" target="_blank" rel="noopener">指导</a></li></ul><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Mon Mar 26 2018 20:22:43 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/951401976982900736" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Environment_Variable_and_SetUID/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32563769" target="_blank" rel="noopener">指导</a></li></ul><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Fri Mar 09 2018 16:41:10 GMT+0800 (CST) --&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/lives/951401976982900736&quot; target=&quot;_blank&quot; 
+        &lt;!-- build time:Mon Mar 26 2018 20:22:43 GMT+0800 (CST) --&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/lives/951401976982900736&quot; target=&quot;_blank&quot; 
       
     
     </summary>
@@ -77,13 +77,13 @@
     <published>2018-02-23T03:24:22.000Z</published>
     <updated>2018-02-23T03:28:34.338Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Fri Mar 09 2018 16:41:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/950313705246814208" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Dirty_COW/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32563704" target="_blank" rel="noopener">指导</a></li></ul><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Mon Mar 26 2018 20:22:43 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/950313705246814208" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Dirty_COW/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32563704" target="_blank" rel="noopener">指导</a></li></ul><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Fri Mar 09 2018 16:41:10 GMT+0800 (CST) --&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/lives/950313705246814208&quot; target=&quot;_blank&quot; 
+        &lt;!-- build time:Mon Mar 26 2018 20:22:43 GMT+0800 (CST) --&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/lives/950313705246814208&quot; target=&quot;_blank&quot; 
       
     
     </summary>
@@ -104,13 +104,13 @@
     <published>2018-02-22T12:02:35.000Z</published>
     <updated>2018-02-22T12:11:52.466Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Fri Mar 09 2018 16:41:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/942448145230233600" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Return_to_libc/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32563626" target="_blank" rel="noopener">指导</a></li></ul><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Mon Mar 26 2018 20:22:43 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/942448145230233600" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Return_to_libc/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32563626" target="_blank" rel="noopener">指导</a></li></ul><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Fri Mar 09 2018 16:41:10 GMT+0800 (CST) --&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/lives/942448145230233600&quot; target=&quot;_blank&quot; 
+        &lt;!-- build time:Mon Mar 26 2018 20:22:43 GMT+0800 (CST) --&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/lives/942448145230233600&quot; target=&quot;_blank&quot; 
       
     
     </summary>
@@ -131,13 +131,13 @@
     <published>2018-02-22T11:51:52.000Z</published>
     <updated>2018-02-22T12:11:15.188Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Fri Mar 09 2018 16:41:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/930120329869795328" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Buffer_Overflow/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32473371" target="_blank" rel="noopener">指导</a></li></ul><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Mon Mar 26 2018 20:22:43 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/930120329869795328" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Buffer_Overflow/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32473371" target="_blank" rel="noopener">指导</a></li></ul><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Fri Mar 09 2018 16:41:10 GMT+0800 (CST) --&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/lives/930120329869795328&quot; target=&quot;_blank&quot; 
+        &lt;!-- build time:Mon Mar 26 2018 20:22:43 GMT+0800 (CST) --&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/lives/930120329869795328&quot; target=&quot;_blank&quot; 
       
     
     </summary>
@@ -158,13 +158,13 @@
     <published>2018-02-15T04:40:59.000Z</published>
     <updated>2018-03-07T13:32:54.535Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Fri Mar 09 2018 16:41:10 GMT+0800 (CST) --><h3 id="网站简介"><a class="markdownIt-Anchor" href="#网站简介"></a> 网站简介</h3><ul><li>姓名:黑客笔记</li><li>生日:2018-02-14</li><li>地点:AnHui Hefei</li><li>擅长:网络与信息安全</li></ul><p>本站采用Github做为存储，Github Page作为静态页面展示，Hexo博客程序，<br>resellerclub购买的域名，<br><a href="http://hackbiji.top">http://hackbiji.top</a><br>永久域名为http://isgt93.github.io</p><p>一年总费用只需￥6。</p><p>本站仅仅关注网络与信息安全领域的黑科技，如果您喜欢，<br>欢迎<code>Ctrl + D</code>收藏本站，谢谢！</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Mon Mar 26 2018 20:22:43 GMT+0800 (CST) --><h3 id="网站简介"><a class="markdownIt-Anchor" href="#网站简介"></a> 网站简介</h3><ul><li>姓名:黑客笔记</li><li>生日:2018-02-14</li><li>地点:AnHui Hefei</li><li>擅长:网络与信息安全</li></ul><p>本站采用Github做为存储，Github Page作为静态页面展示，Hexo博客程序，<br>resellerclub购买的域名，<br><a href="http://hackbiji.top">http://hackbiji.top</a><br>永久域名为http://isgt93.github.io</p><p>一年总费用只需￥6。</p><p>本站仅仅关注网络与信息安全领域的黑科技，如果您喜欢，<br>欢迎<code>Ctrl + D</code>收藏本站，谢谢！</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Fri Mar 09 2018 16:41:10 GMT+0800 (CST) --&gt;&lt;h3 id=&quot;网站简介&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#网站简介&quot;&gt;&lt;/a&gt; 网站简介&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;姓名:
+        &lt;!-- build time:Mon Mar 26 2018 20:22:43 GMT+0800 (CST) --&gt;&lt;h3 id=&quot;网站简介&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#网站简介&quot;&gt;&lt;/a&gt; 网站简介&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;姓名:
       
     
     </summary>
