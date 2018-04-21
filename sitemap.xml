@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hackbiji.top/about/index.html</loc>
+    
+    <lastmod>2018-04-21T04:16:07.089Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hackbiji.top/posts/3ad266a0/</loc>
     
     <lastmod>2018-04-20T15:13:35.200Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>http://hackbiji.top/posts/cabb469a/</loc>
     
     <lastmod>2018-04-12T12:09:59.083Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hackbiji.top/about/index.html</loc>
-    
-    <lastmod>2018-04-06T11:15:22.546Z</lastmod>
     
   </url>
   
