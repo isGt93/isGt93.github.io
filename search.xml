@@ -3,9 +3,29 @@
   
     
     <entry>
+      <title>网络安全入门仪式</title>
+      <link href="//posts/139226e8/"/>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><p>网络安全总共5节课备课完成.<br>第一节课:<a href="https://www.zhihu.com/lives/970626809314852864" target="_blank" rel="noopener">局域网TCP-IP协议攻击</a>.<br>第二节课:<a href="https://www.zhihu.com/lives/980019600662118400" target="_blank" rel="noopener">Heartbleed心跳协议攻击</a>.<br>第三节课:<a href="https://www.zhihu.com/lives/980019543711875072" target="_blank" rel="noopener">钓鱼网站-本地DNS攻击</a>.<br>第四节课:<a href="https://www.zhihu.com/lives/980019489873797120" target="_blank" rel="noopener">钓鱼网站-远程DNS攻击</a>.<br>第五节课:<a href="https://www.zhihu.com/lives/980019442712961024" target="_blank" rel="noopener">中间人攻击-报文嗅探与伪造</a>.</p><p>以上是名校网络与信息安全专业的必修课!!!<br>其中,第四节课是最难的一节课!!!</p><p>如果能够独立完成上述实验,那么恭喜你,入门了,你已经具备了黑客基本的网络修养.<br>接下来,去挑战真实的网络吧!!</p><p>加油!!</p><p>Anhui.Hefei.<br>2018.5.27</p><!-- rebuild by neat -->]]></content>
+      
+      <categories>
+          
+          <category> 运维 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络安全 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>网络安全-报文嗅探与伪造攻击</title>
       <link href="//posts/5d2e6f89/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/980019442712961024" target="_blank" rel="noopener">Live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Sniffing_Spoofing/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/37324898" target="_blank" rel="noopener">WriteUp</a></li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/980019442712961024" target="_blank" rel="noopener">Live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Sniffing_Spoofing/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/37324898" target="_blank" rel="noopener">WriteUp</a></li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -29,7 +49,7 @@
     <entry>
       <title>网络安全-解密钓鱼网站之远程DNS攻击</title>
       <link href="//posts/d618defe/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/980019489873797120" target="_blank" rel="noopener">Live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/DNS_Remote/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/37306980" target="_blank" rel="noopener">WriteUp</a></li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/980019489873797120" target="_blank" rel="noopener">Live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/DNS_Remote/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/37306980" target="_blank" rel="noopener">WriteUp</a></li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -51,7 +71,7 @@
     <entry>
       <title>网络安全-解密钓鱼网站之本地DNS攻击</title>
       <link href="//posts/698ca969/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/980019543711875072" target="_blank" rel="noopener">Live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/DNS_Local/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/37066156" target="_blank" rel="noopener">WriteUp</a></li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/980019543711875072" target="_blank" rel="noopener">Live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/DNS_Local/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/37066156" target="_blank" rel="noopener">WriteUp</a></li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -73,7 +93,7 @@
     <entry>
       <title>黑客文档下载专区</title>
       <link href="//posts/55369f2/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><ul><li><a href="C++Primer.pdf">C++Primer 下载</a></li><li><a href="RegularExpression.pdf">RegularExpression 下载</a></li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><ul><li><a href="C++Primer.pdf">C++Primer 下载</a></li><li><a href="RegularExpression.pdf">RegularExpression 下载</a></li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -95,7 +115,7 @@
     <entry>
       <title>黑客软件下载专区</title>
       <link href="//posts/5650fb06/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><ul><li><a href="Shadowsocks-win-2.5.6.zip">Windows Shadowsock 下载</a></li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><ul><li><a href="Shadowsocks-win-2.5.6.zip">Windows Shadowsock 下载</a></li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -117,7 +137,7 @@
     <entry>
       <title>网络安全-Heartbleed攻击</title>
       <link href="//posts/a8445f8a/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/980019600662118400" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Heartbleed/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/36754530" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/980019600662118400" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Heartbleed/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/36754530" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -139,7 +159,7 @@
     <entry>
       <title>网络安全-TCPIP协议攻击</title>
       <link href="//posts/68538628/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/970626809314852864" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/TCPIP/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/36436664" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/970626809314852864" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/TCPIP/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/36436664" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -161,7 +181,7 @@
     <entry>
       <title>2018-5</title>
       <link href="//posts/4d270aa3/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><h1 id="2018-5月计划"><a class="markdownIt-Anchor" href="#2018-5月计划"></a> 2018-5月计划</h1><h2 id="入职"><a class="markdownIt-Anchor" href="#入职"></a> 入职</h2><ul><li>[ ] 租房|材料|…</li></ul><h2 id="seedlabs"><a class="markdownIt-Anchor" href="#seedlabs"></a> SEEDLabs</h2><ul><li>[ ] 刷完<strong>网络安全实验</strong></li></ul><h2 id="知乎live"><a class="markdownIt-Anchor" href="#知乎live"></a> 知乎Live</h2><ul><li>[ ] 计划完成5场</li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><h1 id="2018-5月计划"><a class="markdownIt-Anchor" href="#2018-5月计划"></a> 2018-5月计划</h1><h2 id="入职"><a class="markdownIt-Anchor" href="#入职"></a> 入职</h2><ul><li>[ ] 租房|材料|…</li></ul><h2 id="seedlabs"><a class="markdownIt-Anchor" href="#seedlabs"></a> SEEDLabs</h2><ul><li>[ ] 刷完<strong>网络安全实验</strong></li></ul><h2 id="知乎live"><a class="markdownIt-Anchor" href="#知乎live"></a> 知乎Live</h2><ul><li>[ ] 计划完成5场</li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -181,7 +201,7 @@
     <entry>
       <title>软件安全入门仪式</title>
       <link href="//posts/3ad266a0/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><p>软件安全总共7节课:备课完成.<br>第一节课:<a href="https://www.zhihu.com/lives/930120329869795328" target="_blank" rel="noopener">缓冲区溢出</a>.<br>第二节课:<a href="https://www.zhihu.com/lives/942448145230233600" target="_blank" rel="noopener">return to libc</a>.<br>第三节课:<a href="https://www.zhihu.com/lives/950313705246814208" target="_blank" rel="noopener">写时复制漏洞的dirty cow</a>.<br>第四节课:<a href="https://www.zhihu.com/lives/951401976982900736" target="_blank" rel="noopener">环境变量与Set_UID</a>.<br>第五节课:<a href="https://www.zhihu.com/lives/962332389125562368" target="_blank" rel="noopener">竞争漏洞</a>.<br>第六节课:<a href="https://www.zhihu.com/lives/967813072571916288" target="_blank" rel="noopener">格式化字符串漏洞</a>.<br>第七节课:<a href="https://zhuanlan.zhihu.com/p/35579956" target="_blank" rel="noopener">Bash漏洞</a>.</p><p>其中,第一节课和第二节课是最难的2节课!!!</p><p>如果看不懂,听不懂,可以来强化一次你的C语言:<a href="https://www.zhihu.com/lives/967359685246099456" target="_blank" rel="noopener">C语言从入门到放肆</a>.</p><p>以上是研究生课程实验,当时室友太强,我没发挥出自己水平,现在重新独立做一遍.</p><p>如果能够独立完成,那么恭喜你,入门了.你已经具备二进制黑客的理论基础了.接下来,跟着我刷一遍网络安全吧.</p><p>软件安全主要讲的是如何攻击自己所在的系统.<br>网络安全主要讲的是如何攻击别人所在的系统.</p><p>加油!!</p><p>Anhui.Hefei.<br>2018.4.15</p><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><p>软件安全总共7节课:备课完成.<br>第一节课:<a href="https://www.zhihu.com/lives/930120329869795328" target="_blank" rel="noopener">缓冲区溢出</a>.<br>第二节课:<a href="https://www.zhihu.com/lives/942448145230233600" target="_blank" rel="noopener">return to libc</a>.<br>第三节课:<a href="https://www.zhihu.com/lives/950313705246814208" target="_blank" rel="noopener">写时复制漏洞的dirty cow</a>.<br>第四节课:<a href="https://www.zhihu.com/lives/951401976982900736" target="_blank" rel="noopener">环境变量与Set_UID</a>.<br>第五节课:<a href="https://www.zhihu.com/lives/962332389125562368" target="_blank" rel="noopener">竞争漏洞</a>.<br>第六节课:<a href="https://www.zhihu.com/lives/967813072571916288" target="_blank" rel="noopener">格式化字符串漏洞</a>.<br>第七节课:<a href="https://zhuanlan.zhihu.com/p/35579956" target="_blank" rel="noopener">Bash漏洞</a>.</p><p>其中,第一节课和第二节课是最难的2节课!!!</p><p>如果看不懂,听不懂,可以来强化一次你的C语言:<a href="https://www.zhihu.com/lives/967359685246099456" target="_blank" rel="noopener">C语言从入门到放肆</a>.</p><p>以上是研究生课程实验,当时室友太强,我没发挥出自己水平,现在重新独立做一遍.</p><p>如果能够独立完成,那么恭喜你,入门了.你已经具备二进制黑客的理论基础了.接下来,跟着我刷一遍网络安全吧.</p><p>软件安全主要讲的是如何攻击自己所在的系统.<br>网络安全主要讲的是如何攻击别人所在的系统.</p><p>加油!!</p><p>Anhui.Hefei.<br>2018.4.15</p><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -201,7 +221,7 @@
     <entry>
       <title>C语言从入门到放弃</title>
       <link href="//posts/93cac988/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/967359685246099456" target="_blank" rel="noopener">live直播</a></li></ul><p>这次Live 涉及内容如下:</p><ol><li>你真的理解C 语言变量？<ul><li>全局、静态、局部变量的区别？</li></ul></li><li>你真的理解字符串？<ul><li>什么是内存静态区？</li></ul></li><li>你真的理解函数调用？<ul><li>形参、实参的区别？</li><li>什么是函数栈？</li><li>函数栈、堆空间的区别？</li><li>函数栈中的黑客攻击你知道吗？</li></ul></li><li>你真的理解内存吗？<ul><li>内存对齐是什么？</li><li>字节序是什么？</li></ul></li><li>你真的理解指针类型申明吗？<ul><li>数组指针、指针数组的区别？</li><li>C 语言数组、指针的区别？</li><li>const 如何使用？</li><li>什么是派生类指针？</li></ul></li><li>你真的理解结构体吗？<ul><li>结构体、共用体区别？</li><li>typedef 如何使用？</li></ul></li></ol><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/967359685246099456" target="_blank" rel="noopener">live直播</a></li></ul><p>这次Live 涉及内容如下:</p><ol><li>你真的理解C 语言变量？<ul><li>全局、静态、局部变量的区别？</li></ul></li><li>你真的理解字符串？<ul><li>什么是内存静态区？</li></ul></li><li>你真的理解函数调用？<ul><li>形参、实参的区别？</li><li>什么是函数栈？</li><li>函数栈、堆空间的区别？</li><li>函数栈中的黑客攻击你知道吗？</li></ul></li><li>你真的理解内存吗？<ul><li>内存对齐是什么？</li><li>字节序是什么？</li></ul></li><li>你真的理解指针类型申明吗？<ul><li>数组指针、指针数组的区别？</li><li>C 语言数组、指针的区别？</li><li>const 如何使用？</li><li>什么是派生类指针？</li></ul></li><li>你真的理解结构体吗？<ul><li>结构体、共用体区别？</li><li>typedef 如何使用？</li></ul></li></ol><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -223,7 +243,7 @@
     <entry>
       <title>软件安全_ShellShock攻击</title>
       <link href="//posts/872a46aa/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/969901662039695360" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Shellshock/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/35579956" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/969901662039695360" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Shellshock/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/35579956" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -245,7 +265,7 @@
     <entry>
       <title>软件安全_格式化字符串攻击</title>
       <link href="//posts/cabb469a/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/967813072571916288" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Format_String/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/35523384" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/967813072571916288" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Format_String/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/35523384" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -267,7 +287,7 @@
     <entry>
       <title>算法从入门到放弃</title>
       <link href="//posts/b5aa7ccf/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/962018973176561664/" target="_blank" rel="noopener">live直播</a></li><li><a href="https://zhuanlan.zhihu.com/suanfa" target="_blank" rel="noopener">算法刷题专栏</a></li></ul><p>这次Live涉及:</p><ol><li>数组</li><li>链表</li><li>二叉树</li><li>回溯</li><li>动态规划</li><li>位运算</li><li>topk</li><li>第k大的排序搜索</li></ol><p>等考研-复试-求职经典问题</p><p>最后简单介绍C语言的指针之面向对象开发模式:<strong>回调函数</strong><br>在简单问题中提出更深层次的思考,面试官会看你的思维逻辑应变能力,</p><p>所以光刷题不总结,很难学到精髓.<br>大佬就不要参与了,免得让我有压力~</p><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/962018973176561664/" target="_blank" rel="noopener">live直播</a></li><li><a href="https://zhuanlan.zhihu.com/suanfa" target="_blank" rel="noopener">算法刷题专栏</a></li></ul><p>这次Live涉及:</p><ol><li>数组</li><li>链表</li><li>二叉树</li><li>回溯</li><li>动态规划</li><li>位运算</li><li>topk</li><li>第k大的排序搜索</li></ol><p>等考研-复试-求职经典问题</p><p>最后简单介绍C语言的指针之面向对象开发模式:<strong>回调函数</strong><br>在简单问题中提出更深层次的思考,面试官会看你的思维逻辑应变能力,</p><p>所以光刷题不总结,很难学到精髓.<br>大佬就不要参与了,免得让我有压力~</p><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -287,7 +307,7 @@
     <entry>
       <title>2018-4</title>
       <link href="//posts/3a203a35/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><h1 id="2018-4月计划"><a class="markdownIt-Anchor" href="#2018-4月计划"></a> 2018-4月计划</h1><h2 id="驾照"><a class="markdownIt-Anchor" href="#驾照"></a> 驾照</h2><ul><li>[x] <strong>完成科目四</strong></li></ul><h2 id="买车"><a class="markdownIt-Anchor" href="#买车"></a> 买车</h2><ul><li>[ ] 锁定</li></ul><h2 id="seedlabs"><a class="markdownIt-Anchor" href="#seedlabs"></a> SEEDLabs</h2><ul><li>[x] <strong>刷完软件安全实验</strong><br>完成最后2个</li></ul><h2 id="知乎live"><a class="markdownIt-Anchor" href="#知乎live"></a> 知乎Live</h2><ul><li>[x] 完成4场<br>实际完成5场</li></ul><h2 id="入职"><a class="markdownIt-Anchor" href="#入职"></a> 入职</h2><ul><li>[x] 琐事</li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><h1 id="2018-4月计划"><a class="markdownIt-Anchor" href="#2018-4月计划"></a> 2018-4月计划</h1><h2 id="驾照"><a class="markdownIt-Anchor" href="#驾照"></a> 驾照</h2><ul><li>[x] <strong>完成科目四</strong></li></ul><h2 id="买车"><a class="markdownIt-Anchor" href="#买车"></a> 买车</h2><ul><li>[ ] 锁定</li></ul><h2 id="seedlabs"><a class="markdownIt-Anchor" href="#seedlabs"></a> SEEDLabs</h2><ul><li>[x] <strong>刷完软件安全实验</strong><br>完成最后2个</li></ul><h2 id="知乎live"><a class="markdownIt-Anchor" href="#知乎live"></a> 知乎Live</h2><ul><li>[x] 完成4场<br>实际完成5场</li></ul><h2 id="入职"><a class="markdownIt-Anchor" href="#入职"></a> 入职</h2><ul><li>[x] 琐事</li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -307,7 +327,7 @@
     <entry>
       <title>软件安全_轻松利用竞争漏洞提权</title>
       <link href="//posts/276916ed/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/962332389125562368" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Race_Condition/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/34976829" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/962332389125562368" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Race_Condition/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/34976829" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -329,7 +349,7 @@
     <entry>
       <title>2018-3</title>
       <link href="//posts/a444af96/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><h1 id="2018-3月计划"><a class="markdownIt-Anchor" href="#2018-3月计划"></a> 2018-3月计划</h1><h2 id="算法"><a class="markdownIt-Anchor" href="#算法"></a> 算法</h2><ul><li>[x] <strong>刷完《剑指OFFER》</strong></li></ul><p>剩余20道编程题 每天1道</p><h2 id="seedlabs"><a class="markdownIt-Anchor" href="#seedlabs"></a> SEEDLabs</h2><ul><li>[ ] <strong>刷完软件安全实验</strong></li></ul><p>剩余3个:10号 20号 30号</p><h2 id="知乎live"><a class="markdownIt-Anchor" href="#知乎live"></a> 知乎Live</h2><ul><li>[x] 完成2场: 10号 17号</li></ul><h3 id="ctf"><a class="markdownIt-Anchor" href="#ctf"></a> CTF</h3><ul><li>[ ] 试水，寻找靶场</li></ul><h3 id="web安全"><a class="markdownIt-Anchor" href="#web安全"></a> Web安全</h3><ul><li>[ ] 预习Web安全相关知识</li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><h1 id="2018-3月计划"><a class="markdownIt-Anchor" href="#2018-3月计划"></a> 2018-3月计划</h1><h2 id="算法"><a class="markdownIt-Anchor" href="#算法"></a> 算法</h2><ul><li>[x] <strong>刷完《剑指OFFER》</strong></li></ul><p>剩余20道编程题 每天1道</p><h2 id="seedlabs"><a class="markdownIt-Anchor" href="#seedlabs"></a> SEEDLabs</h2><ul><li>[ ] <strong>刷完软件安全实验</strong></li></ul><p>剩余3个:10号 20号 30号</p><h2 id="知乎live"><a class="markdownIt-Anchor" href="#知乎live"></a> 知乎Live</h2><ul><li>[x] 完成2场: 10号 17号</li></ul><h3 id="ctf"><a class="markdownIt-Anchor" href="#ctf"></a> CTF</h3><ul><li>[ ] 试水，寻找靶场</li></ul><h3 id="web安全"><a class="markdownIt-Anchor" href="#web安全"></a> Web安全</h3><ul><li>[ ] 预习Web安全相关知识</li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -349,7 +369,7 @@
     <entry>
       <title>软件安全_环境变量与SetUID攻防</title>
       <link href="//posts/67a199ee/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/951401976982900736" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Environment_Variable_and_SetUID/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32563769" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/951401976982900736" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Environment_Variable_and_SetUID/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32563769" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -373,7 +393,7 @@
     <entry>
       <title>软件安全_内核写时复制漏洞攻击防范</title>
       <link href="//posts/e530546b/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/950313705246814208" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Dirty_COW/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32563704" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/950313705246814208" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Dirty_COW/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32563704" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -395,7 +415,7 @@
     <entry>
       <title>软件安全_返回到libc攻击防范</title>
       <link href="//posts/cefe7abc/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/942448145230233600" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Return_to_libc/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32563626" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/942448145230233600" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Return_to_libc/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32563626" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -417,7 +437,7 @@
     <entry>
       <title>软件安全_缓冲区溢出攻击防范</title>
       <link href="//posts/4e6a2dc0/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/930120329869795328" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Buffer_Overflow/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32473371" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><ul><li><a href="https://www.zhihu.com/lives/930120329869795328" target="_blank" rel="noopener">live直播</a></li><li><a href="http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Buffer_Overflow/" target="_blank" rel="noopener">实验</a></li><li><a href="https://zhuanlan.zhihu.com/p/32473371" target="_blank" rel="noopener">writeup</a></li></ul><!-- rebuild by neat -->]]></content>
       
       <categories>
           
@@ -439,7 +459,7 @@
     <entry>
       <title>网站诞生</title>
       <link href="//posts/a241d89d/"/>
-      <content type="html"><![CDATA[<!-- build time:Sat May 26 2018 20:55:10 GMT+0800 (CST) --><h3 id="网站简介"><a class="markdownIt-Anchor" href="#网站简介"></a> 网站简介</h3><ul><li>姓名:黑客笔记</li><li>生日:2018-02-14</li><li>地点:AnHui Hefei</li><li>擅长:网络与信息安全</li></ul><p>本站采用Github做为存储，Github Page作为静态页面展示，Hexo博客程序，<br>resellerclub购买的域名，<br><a href="http://hackbiji.top">http://hackbiji.top</a><br>永久域名为http://isgt93.github.io</p><p>一年总费用只需￥6。</p><p>本站仅仅关注网络与信息安全领域的黑科技，如果您喜欢，<br>欢迎<code>Ctrl + D</code>收藏本站，谢谢！</p><!-- rebuild by neat -->]]></content>
+      <content type="html"><![CDATA[<!-- build time:Sun May 27 2018 00:16:50 GMT+0800 (CST) --><h3 id="网站简介"><a class="markdownIt-Anchor" href="#网站简介"></a> 网站简介</h3><ul><li>姓名:黑客笔记</li><li>生日:2018-02-14</li><li>地点:AnHui Hefei</li><li>擅长:网络与信息安全</li></ul><p>本站采用Github做为存储，Github Page作为静态页面展示，Hexo博客程序，<br>resellerclub购买的域名，<br><a href="http://hackbiji.top">http://hackbiji.top</a><br>永久域名为http://isgt93.github.io</p><p>一年总费用只需￥6。</p><p>本站仅仅关注网络与信息安全领域的黑科技，如果您喜欢，<br>欢迎<code>Ctrl + D</code>收藏本站，谢谢！</p><!-- rebuild by neat -->]]></content>
       
       <categories>
           
