@@ -11,12 +11,12 @@ reward: false
 - 生日:2018-02-14
 - 地点:AnHui Hefei
 
-本站采用Github做为存储  
-Github Page作为静态页面展示  
-Hexo博客程序  
-resellerclub购买的域名  
-http://hackbiji.top  
-永久域名为http://isgt93.github.io  
+- 存储:Github  
+- 前端:Github Page  
+- 后台:Hexo  
+- 域名:resellerclub  
+- - 临时域名:http://hackbiji.top  
+- - 永久域名:http://isgt93.github.io  
 
 
 ### 个人简介
