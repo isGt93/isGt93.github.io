@@ -1,7 +1,7 @@
 ---
 title: C语言从入门到放弃
 tags:
-  - C语言
+  - C
   - 指针
 categories: 基础
 abbrlink: 93cac988
