@@ -6,6 +6,6 @@ tags:
 categories:
 ---
 
-[DDoS Bate0.1](dos.py)
-
+[dos.py Bate0.1](dos.py)
+[trigger.py Bate0.1](trigger.py)
 
