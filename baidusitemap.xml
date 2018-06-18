@@ -4,28 +4,8 @@
 
     
   <url>
-    <loc>http://hackbiji.top//posts/d42e5b19/</loc>
-    <lastmod>2018-06-16T05:26:56.792Z</lastmod>
-    <data>
-        <display>
-        <title>2018-6</title>
-        <pubTime>2018-06-06T13:24:49.000Z</pubTime>
-        
-        <tag>计划</tag>
-         
-         
-           
-             
-              <breadCrumb title="月报" url="http://hackbiji.top/categories/%E6%9C%88%E6%8A%A5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://hackbiji.top//posts/820ac8ce/</loc>
-    <lastmod>2018-06-16T05:22:56.106Z</lastmod>
+    <lastmod>2018-06-18T01:15:23.837Z</lastmod>
     <data>
         <display>
         <title>web安全_XSS攻击防范</title>
@@ -39,6 +19,46 @@
            
              
               <breadCrumb title="实验" url="http://hackbiji.top/categories/%E5%AE%9E%E9%AA%8C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://hackbiji.top//posts/110ea050/</loc>
+    <lastmod>2018-06-18T01:14:01.691Z</lastmod>
+    <data>
+        <display>
+        <title>web安全-CSRF攻击防范</title>
+        <pubTime>2018-06-18T01:08:38.000Z</pubTime>
+        
+        <tag>CSRF</tag>
+         
+         
+           
+             
+              <breadCrumb title="实验" url="http://hackbiji.top/categories/%E5%AE%9E%E9%AA%8C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://hackbiji.top//posts/d42e5b19/</loc>
+    <lastmod>2018-06-16T05:26:56.792Z</lastmod>
+    <data>
+        <display>
+        <title>2018-6</title>
+        <pubTime>2018-06-06T13:24:49.000Z</pubTime>
+        
+        <tag>计划</tag>
+         
+         
+           
+             
+              <breadCrumb title="月报" url="http://hackbiji.top/categories/%E6%9C%88%E6%8A%A5/"/>
           
         </display>
     </data>
