@@ -1,0 +1,36 @@
+name: Deploy Astro to GitHub Pages
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: withastro/action@v6
+        with:
+          node-version: 24
+          package-manager: pnpm@11.5.3
+          build-cmd: pnpm run build
+        env:
+          ENABLE_CONTENT_SYNC: 'false'
+          ASTRO_TELEMETRY_DISABLED: '1'
+          NODE_OPTIONS: --max-old-space-size=6144
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v5
