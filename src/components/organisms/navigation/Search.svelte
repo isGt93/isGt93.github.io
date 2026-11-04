@@ -18,6 +18,7 @@ let debounceTimer: ReturnType<typeof setTimeout>;
 let windowJustFocused = false;
 let focusTimer: ReturnType<typeof setTimeout>;
 let blurTimer: ReturnType<typeof setTimeout>;
+let searchRequest = 0;
 
 const fakeResult: SearchResult[] = [
 	{
@@ -95,6 +96,7 @@ const setPanelVisibility = (show: boolean, isDesktop: boolean): void => {
 };
 
 const closeSearchPanel = (): void => {
+	searchRequest++;
 	const panel = document.getElementById("search-panel");
 	if (panel) {
 		panel.classList.add("float-panel-closed");
@@ -112,6 +114,7 @@ const handleResultClick = (event: Event, url: string): void => {
 };
 
 const search = async (keyword: string, isDesktop: boolean): Promise<void> => {
+	const request = ++searchRequest;
 	if (!keyword) {
 		setPanelVisibility(false, isDesktop);
 		result = [];
@@ -122,10 +125,14 @@ const search = async (keyword: string, isDesktop: boolean): Promise<void> => {
 	}
 	try {
 		let searchResults: SearchResult[] = [];
-		if (import.meta.env.PROD && pagefindLoaded && window.pagefind) {
+		if (import.meta.env.PROD) {
+			// The first query may arrive before the lazy-loaded module is ready.
+			await window.loadPagefind?.();
+			if (request !== searchRequest) return;
+			if (!window.pagefind) throw new Error("Pagefind failed to load");
 			const response = await window.pagefind.search(keyword);
 			searchResults = await Promise.all(
-				response.results.map((item) => item.data()),
+				response.results.slice(0, 30).map((item) => item.data()),
 			);
 		} else if (import.meta.env.DEV) {
 			searchResults = fakeResult;
@@ -133,9 +140,11 @@ const search = async (keyword: string, isDesktop: boolean): Promise<void> => {
 			searchResults = [];
 			console.error("Pagefind is not available in production environment.");
 		}
+		if (request !== searchRequest) return;
 		result = searchResults;
 		setPanelVisibility(result.length > 0, isDesktop);
 	} catch (error) {
+		if (request !== searchRequest) return;
 		console.error("Search error:", error);
 		result = [];
 		setPanelVisibility(false, isDesktop);
