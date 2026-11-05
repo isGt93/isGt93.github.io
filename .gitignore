@@ -76,3 +76,4 @@ import-report.json
 /git-push.log
 /preview.log
 /demo-assets-audit.json
+__pycache__/

@@ -1,0 +1,50 @@
+{
+  "description": "Verified archived Zhihu interface glyphs; match exact drawing signatures, never image dimensions alone.",
+  "shapes": [
+    {
+      "kind": "zhida-keyword",
+      "viewBox": "0 0 16 16",
+      "path_sha256": "9a246bb1bf83a1ae03a390c676735d4273b4adcdb5840a58c1004f76f8df6880"
+    },
+    {
+      "kind": "zhihu-search",
+      "viewBox": "0 0 15 15",
+      "path_sha256": "1895e72e7c7bc229197f1a85bf1b014e0d8e7852cd447b3905fbd5b313643d6b"
+    },
+    {
+      "kind": "gif-badge",
+      "viewBox": "0 0 60 60",
+      "path_sha256": "380553873a717b6df96d8068ccb64a819493a8af253fece568a24369b10618c6"
+    },
+    {
+      "kind": "gif-badge",
+      "viewBox": "0 0 60 60",
+      "path_sha256": "085f4ed83f4c7551a57a9c45cb902eea859ea7b69ef4a8ae865daade675d3bed"
+    },
+    {
+      "kind": "gif-badge",
+      "viewBox": "0 0 60 60",
+      "path_sha256": "bf62338335cb0a66f98f783e701d25eb072bcbf186d5748d04ca092d61aa49f3"
+    },
+    {
+      "kind": "link-decoration",
+      "viewBox": "0 0 24 24",
+      "path_sha256": "4dc742054768c8be6073976ea8a1a0ab6e2cbe878a735a83e20d73043445271d"
+    },
+    {
+      "kind": "link-decoration",
+      "viewBox": "0 0 24 24",
+      "path_sha256": "246f066866ce42ee112898d8bb3bb6532e2da8b83c7647b38df5fa4754ceebce"
+    },
+    {
+      "kind": "video-decoration",
+      "viewBox": "0 0 24 24",
+      "path_sha256": "343f120982d99e7c54f494bb28f799af28f85194ce88414ff894cca86c54d709"
+    },
+    {
+      "kind": "video-decoration",
+      "viewBox": "0 0 72 72",
+      "path_sha256": "60eebd06a33f1dbcb7bd4423a0a9cad31e206886b7078dae7a51198b7cea876b"
+    }
+  ]
+}

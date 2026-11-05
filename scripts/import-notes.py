@@ -14,6 +14,7 @@ import sys
 from concurrent.futures import ThreadPoolExecutor
 from PIL import Image
 from repair_note_svg import repair as repair_svg_copies
+from clean_note_ui_icons import clean_markdown_ui_images
 from markdown_it import MarkdownIt
 from markdown_it.common.utils import unescapeAll
 
@@ -57,9 +58,12 @@ def main():
     output_names = {}
     report = []
     rewritten_links = 0
+    removed_ui_icons = 0
     for record in sorted(manifest, key=lambda r:r['id']):
         aid = record['id']; source = CORPUS/record['output']
         original = source.read_text(encoding='utf-8-sig')
+        original, removed_icons = clean_markdown_ui_images(original, CORPUS/'assets')
+        removed_ui_icons += sum(removed_icons.values())
         summary = summaries[aid]
         title = unescapeAll(original.splitlines()[0].removeprefix('# ').strip())
         body = re.sub(r'\A# [^\n]+\n+', '', original, count=1)
@@ -164,6 +168,7 @@ def main():
                     for name in used_assets], reverse=True)
     total = sum(s for s,_ in sizes)
     result = {'articles':len(report), 'assets':len(used_assets), 'asset_bytes':total,
+              'source_ui_icons_removed':removed_ui_icons,
               'largest_assets':[{'name':name,'bytes':size} for size,name in sizes[:15]],
               'rewritten_article_links':rewritten_links,
               'source_asset_bytes':sum(p.stat().st_size for p in used_assets.values()),
