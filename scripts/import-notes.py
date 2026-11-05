@@ -15,6 +15,7 @@ from concurrent.futures import ThreadPoolExecutor
 from PIL import Image
 from repair_note_svg import repair as repair_svg_copies
 from clean_note_ui_icons import clean_markdown_ui_images
+from clean_note_editorial import clean_note_body
 from markdown_it import MarkdownIt
 from markdown_it.common.utils import unescapeAll
 
@@ -109,6 +110,7 @@ def main():
                 chunks[j] = url_pattern.sub(replace_url, chunks[j])
             lines[i] = ''.join(chunks)
         body = ''.join(lines)
+        body, _ = clean_note_body(body, aid)
         if blocks(original) != blocks(body):
             raise ValueError(f'代码在导入时变化 {aid}')
         if not re.match(r'ailx10说：[^\n]+\n\s*\n---\s*\n', body):

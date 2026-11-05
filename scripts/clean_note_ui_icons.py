@@ -29,7 +29,8 @@ def ui_icon_kind(path):
     path = Path(path)
     if not path.is_file() or path.suffix.lower() != '.svg':
         return None
-    xml = etree.fromstring(path.read_bytes(), etree.XMLParser(resolve_entities=False, no_network=True))
+    raw = path.read_bytes()
+    xml = etree.fromstring(raw, etree.XMLParser(resolve_entities=False, no_network=True))
     paths = [re.sub(r'\s+', '', node.get('d', '')) for node in xml.iter()
              if isinstance(node.tag, str) and etree.QName(node).localname == 'path']
     digest = hashlib.sha256('\n'.join(paths).encode()).hexdigest()
